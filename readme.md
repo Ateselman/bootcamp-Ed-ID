@@ -49,3 +49,6 @@ o
 git log --oneline
 ```
 ##### Si la consola queda bloqueada (END) apretar tecla "Q" (quit)
+
+## Para restaurar algo 
+git restore (nombre del archivo a restaurar)
