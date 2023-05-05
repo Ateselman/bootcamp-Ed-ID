@@ -48,3 +48,4 @@ git log
 o
 git log --oneline
 ```
+##### Si la consola queda bloqueada (END) apretar tecla "Q" (quit)
