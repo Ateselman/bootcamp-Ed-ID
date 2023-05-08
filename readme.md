@@ -52,3 +52,15 @@ git log --oneline
 
 ## Para restaurar algo 
 git restore (nombre del archivo a restaurar)
+
+
+## Clase 16
+
+# .gitignore
+Este archivo me sirve para ignorar carpetas o archivos que no quiero que sean parte del repositorio. Normalmente va sobre la raiz del proyecto.
+
+Necesito crear el archivo .gitignore
+
+``
+touch gitignore
+``
