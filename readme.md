@@ -54,13 +54,24 @@ git log --oneline
 git restore (nombre del archivo a restaurar)
 
 
-## Clase 16
+# Clase 16
 
-# .gitignore
+## .gitignore
 Este archivo me sirve para ignorar carpetas o archivos que no quiero que sean parte del repositorio. Normalmente va sobre la raiz del proyecto.
 
 Necesito crear el archivo .gitignore
 
-``
+````sh
 touch gitignore
-``
+```
+
+## Agrego a mi repo local la url del repo remoto
+```sh
+git remote add origin https://github.com/Ateselman/bootcamp-Ed-ID.git
+```
+
+### visualizar si se agrego o que url tengo agregada
+
+```sh
+git remote -v
+```
